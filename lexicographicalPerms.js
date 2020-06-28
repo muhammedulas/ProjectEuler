@@ -1,4 +1,3 @@
-//Problem Adı: Lexicographical Permutations, ProjectEuler Numarası: 24
 /* Recursive fonksiyon ve stack yapısı kullanılarak da aynı sonuç elde edilebilirdi ancak işlemin komplikasyonunun
 *  daha az olması ve döndüreceğimiz dizi değişkeninin tek bir permutasyondan oluşması hem işlemi basitleştireceği hem de
 *  çalışma süresini kısaltacağı için iki ayrı fonksiyon kullanarak bu şekilde yazdım  */

@@ -1,5 +1,3 @@
-//Problem Adı: Almost Equalateral Triangles, Project Euler Numarası: 94
-
 function almostEquilateral(Len) {
     let sum, side, prevSide, gap, per;      //sırasıyla toplam, kenar uzunluğu, bir onceki kenar uzunluğu, fark, çevre
     sum = 0;

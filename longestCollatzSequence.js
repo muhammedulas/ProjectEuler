@@ -1,4 +1,4 @@
-//Problem Adı: Longest Collatz Sequence, ProjectEuler Numarası: 14
+
 
 function longestCollatz(max) {
 
