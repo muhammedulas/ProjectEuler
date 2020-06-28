@@ -33,6 +33,3 @@ function findDigitFactorials(){
     }
     return sum
 }
-
-s = 40730
-console.log(s)
